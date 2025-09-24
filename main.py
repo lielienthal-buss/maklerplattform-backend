@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Depends, HTTPException, status
+# Dummy comment to force Vercel rebuild
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from sqlalchemy.orm import Session
