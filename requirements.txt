@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+PyJWT
+SQLAlchemy
+requests
+beautifulsoup4
